@@ -1,0 +1,13 @@
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\bin\Debug\ProjetoBolsistasCapes.exe.config
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\bin\Debug\ProjetoBolsistasCapes.exe
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\bin\Debug\ProjetoBolsistasCapes.pdb
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.csproj.SuggestedBindingRedirects.cache
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.frmConsultarBolsa.resources
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.frmTelaInicial.resources
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.Properties.Resources.resources
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.csproj.GenerateResource.cache
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.csproj.CoreCompileInputs.cache
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.exe
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.pdb
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.frmRankingBolsa.resources
+D:\C#\ProjetoBolsistasCapes\ProjetoBolsistasCapes\obj\Debug\ProjetoBolsistasCapes.csproj.AssemblyReference.cache
